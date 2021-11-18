@@ -1,3 +1,3 @@
 # stancode101
 ## 2021_Sep
-### Imageing processing, breakout, boggle game, naming searching
+Hi, this repositiory holds my programming projects during the StanCode SC101 course.
